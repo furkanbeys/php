@@ -1,0 +1,2 @@
+# php
+php veri yazdırma
